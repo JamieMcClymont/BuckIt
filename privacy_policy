@@ -1,0 +1,47 @@
+# BuckIt – Privacy Policy
+**Effective date:** 2025-09-30
+
+BuckIt lets you create bucket lists and optionally send feedback to help improve the app.
+
+## What we collect
+When you submit feedback from inside the app, we collect:
+- **Feedback text** (what you type)
+- **Timestamp** (server time)
+- **Anonymous user ID** (from Firebase Anonymous Auth; not personally identifying)
+- **Platform** (e.g., iOS/Android)
+- **App version** (if available)
+
+We do **not** collect your contacts, precise location, photos, or other personal data.
+
+## How we use your data
+- To read and respond to feedback
+- To improve app quality and features
+
+## Legal basis (GDPR, if applicable)
+- **Consent**: you choose to send feedback.
+- **Legitimate interests**: improving BuckIt’s functionality and reliability.
+
+## Sharing
+We do **not** sell your data. We use third-party processors to store feedback:
+- **Google Firebase / Cloud Firestore** (managed database and authentication)
+
+These providers process data on our behalf under their own security and compliance programs.
+
+## Data retention
+Feedback may be retained as long as reasonably needed for app improvement.  
+You can request deletion of specific feedback by contacting us (see Contact).
+
+## Children
+BuckIt is not directed to children under 13. If you believe a child has submitted feedback, contact us to remove it.
+
+## Security
+We use industry-standard safeguards and store feedback in Firebase. No method of transmission or storage is 100% secure.
+
+## Your rights
+Depending on your location, you may have rights to access, correct, or delete your data. Contact us to exercise these rights.
+
+## Contact
+Email: **jcd.mcclymont1@example.com**
+
+## Changes
+We may update this policy. We’ll change the “Effective date” above and post the new version at this URL.
