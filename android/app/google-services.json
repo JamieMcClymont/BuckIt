@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1098683066033",
+    "project_id": "buckit-c4bca",
+    "storage_bucket": "buckit-c4bca.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098683066033:android:679203fe261bc0538fe490",
+        "android_client_info": {
+          "package_name": "com.example.test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjfcgXbEsUQ2tRQFpUPClgOwVnPUgbEKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098683066033:android:a7eda6b5398f8c668fe490",
+        "android_client_info": {
+          "package_name": "com.jamie.buckit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjfcgXbEsUQ2tRQFpUPClgOwVnPUgbEKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
